@@ -1,4 +1,4 @@
-Movie Recommender System
+__Movie Recommender System__
 This is a Content-Based Movie Recommender System built using Python and Streamlit. It suggests similar movies based on the movie selected by the user.
 Movie posters are dynamically fetched using the TMDB (The Movie Database) API.
 
